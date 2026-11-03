@@ -26,7 +26,7 @@ python3 -m unittest -v
 ```
 
 ## Time spent
-About X hours. <-- fill in honestly
+About 4 Hours
 
 ## AI session
-<paste your shared Claude/ChatGPT link here>
+https://claude.ai/share/f8d4eef6-af88-4411-91fe-c65c3b0b5306
